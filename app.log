@@ -1,0 +1,246 @@
+2025-03-07 10:16:31,931 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.226.235.239:8000
+2025-03-07 10:16:31,932 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 10:16:31,935 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 10:16:34,486 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 10:16:34,490 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 10:17:07,232 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:17:07] "GET /extract-text HTTP/1.1" 200 -
+2025-03-07 10:17:46,484 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:17:46] "[33mGET /extract-text/search?keyword=kafka HTTP/1.1[0m" 404 -
+2025-03-07 10:18:01,941 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:18:01] "[33mGET /extract-text/search-text?keyword=kafka HTTP/1.1[0m" 404 -
+2025-03-07 10:18:29,542 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:18:29] "GET /search-text?keyword=kafka HTTP/1.1" 200 -
+2025-03-07 10:20:09,794 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:20:09] "PUT /update-text HTTP/1.1" 200 -
+2025-03-07 10:21:35,340 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:21:35] "DELETE /delete-text HTTP/1.1" 200 -
+2025-03-07 10:21:48,106 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:21:48] "DELETE /delete-text HTTP/1.1" 200 -
+2025-03-07 10:22:12,933 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:22:12] "DELETE /delete-text HTTP/1.1" 200 -
+2025-03-07 10:22:58,780 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f1.py', reloading
+2025-03-07 10:22:59,029 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 10:23:01,435 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 10:23:01,440 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 10:23:10,894 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.226.235.239:8000
+2025-03-07 10:23:10,897 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 10:23:10,900 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 10:23:13,184 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 10:23:13,189 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 10:23:17,056 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:23:17] "DELETE /delete-text HTTP/1.1" 200 -
+2025-03-07 10:23:41,556 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f1.py', reloading
+2025-03-07 10:23:41,765 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 10:23:44,417 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 10:23:44,423 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 10:23:49,263 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:23:49] "DELETE /delete-text HTTP/1.1" 200 -
+2025-03-07 10:24:57,715 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f1.py', reloading
+2025-03-07 10:24:57,926 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 10:25:01,028 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 10:25:01,034 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 10:25:07,976 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f1.py', reloading
+2025-03-07 10:25:08,185 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 10:25:16,781 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.226.235.239:8000
+2025-03-07 10:25:16,821 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 10:25:16,858 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 10:25:19,258 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 10:25:19,262 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 10:25:27,357 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:25:27] "DELETE /delete-text HTTP/1.1" 200 -
+2025-03-07 10:25:48,191 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f1.py', reloading
+2025-03-07 10:25:48,555 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 10:25:51,518 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 10:25:51,523 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 10:26:02,669 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.226.235.239:8000
+2025-03-07 10:26:02,670 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 10:26:02,672 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 10:26:04,891 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 10:26:04,896 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 10:26:21,719 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:26:21] "GET /extract-text HTTP/1.1" 200 -
+2025-03-07 10:27:59,386 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:27:59] "GET /search-text?keyword=justin HTTP/1.1" 200 -
+2025-03-07 10:28:20,786 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:28:20] "[33mGET /search-text?keyword=kafka HTTP/1.1[0m" 404 -
+2025-03-07 10:28:29,142 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:28:29] "[33mGET /search-text?keyword=123 HTTP/1.1[0m" 404 -
+2025-03-07 10:28:34,096 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:28:34] "[31m[1mGET /search-text?keyword= HTTP/1.1[0m" 400 -
+2025-03-07 10:28:41,872 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:28:41] "[31m[1mGET /search-text?keyword HTTP/1.1[0m" 400 -
+2025-03-07 10:28:56,041 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:28:56] "[33mGET /search-text?keyword="" HTTP/1.1[0m" 404 -
+2025-03-07 10:29:13,454 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:29:13] "[31m[1mGET /search-text?keyword= HTTP/1.1[0m" 400 -
+2025-03-07 10:29:21,406 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 10:29:21] "[33mGET /search-text?keyword=90 HTTP/1.1[0m" 404 -
+2025-03-07 11:10:00,916 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f2.py', reloading
+2025-03-07 11:10:01,146 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 11:10:04,204 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 11:10:04,209 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 11:10:13,420 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f2.py', reloading
+2025-03-07 11:10:13,608 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 11:10:16,362 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 11:10:16,367 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 11:10:20,859 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f2.py', reloading
+2025-03-07 11:10:21,074 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 11:10:23,534 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 11:10:23,539 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 11:21:24,357 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.226.235.239:8000
+2025-03-07 11:21:24,358 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 11:21:24,362 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 11:21:26,579 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 11:21:26,584 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 11:38:10,011 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 11:38:10] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2025-03-07 11:38:44,590 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 11:38:44] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2025-03-07 11:44:52,145 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 11:44:52] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2025-03-07 11:46:04,840 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 11:46:04] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2025-03-07 11:49:02,938 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f2.py', reloading
+2025-03-07 11:49:03,165 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 11:49:06,736 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 11:49:06,740 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 11:49:11,442 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.226.235.239:8000
+2025-03-07 11:49:11,443 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 11:49:11,446 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 11:49:13,939 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 11:49:13,944 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 11:49:17,158 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 11:49:17] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2025-03-07 11:49:29,966 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f2.py', reloading
+2025-03-07 11:49:30,154 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 11:49:32,961 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 11:49:32,965 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 11:50:07,439 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 11:50:07] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2025-03-07 11:50:18,945 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f2.py', reloading
+2025-03-07 11:50:19,219 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 11:50:21,805 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 11:50:21,810 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 11:50:35,648 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 11:50:35] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2025-03-07 11:53:42,453 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f2.py', reloading
+2025-03-07 11:53:42,692 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 11:53:48,122 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 11:53:48,128 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 11:53:51,169 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 11:53:51] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2025-03-07 11:55:51,700 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.226.235.239:8000
+2025-03-07 11:55:51,702 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 11:55:51,707 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 11:55:54,202 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 11:55:54,206 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 11:56:13,465 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 11:56:13] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2025-03-07 11:57:24,718 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f2.py', reloading
+2025-03-07 11:57:24,925 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 11:57:27,589 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 11:57:27,594 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 11:59:45,373 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 11:59:45] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2025-03-07 11:59:57,264 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f1.py', reloading
+2025-03-07 11:59:57,461 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 11:59:59,890 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 11:59:59,894 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 12:00:32,522 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.226.235.239:8000
+2025-03-07 12:00:32,525 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 12:00:32,528 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 12:00:34,871 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 12:00:34,877 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 12:00:39,615 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 12:00:39] "POST /upload HTTP/1.1" 200 -
+2025-03-07 12:01:54,939 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 12:01:54] "POST /upload HTTP/1.1" 200 -
+2025-03-07 12:03:32,567 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 12:03:32] "POST /upload HTTP/1.1" 200 -
+2025-03-07 12:04:29,218 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 12:04:29] "GET /extract-text/6a1c5281-f938-48ee-beb7-4afec2bcc759 HTTP/1.1" 200 -
+2025-03-07 12:07:54,988 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 12:07:54] "GET /search-text/6a1c5281-f938-48ee-beb7-4afec2bcc759?keyword=strawberry HTTP/1.1" 200 -
+2025-03-07 12:14:59,777 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 12:14:59] "POST /upload HTTP/1.1" 200 -
+2025-03-07 12:15:42,321 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 12:15:42] "GET /extract-text/95707368-0fb6-46f4-a3e2-81749a7c7e91 HTTP/1.1" 200 -
+2025-03-07 12:19:14,521 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 12:19:14] "GET /search-text/95707368-0fb6-46f4-a3e2-81749a7c7e91?keyword=radiation%20therapy HTTP/1.1" 200 -
+2025-03-07 12:39:17,645 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 12:39:17] "GET /search-text/95707368-0fb6-46f4-a3e2-81749a7c7e91?keyword=radiation%20therapy HTTP/1.1" 200 -
+2025-03-07 12:42:36,888 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f2.py', reloading
+2025-03-07 12:42:37,136 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 12:42:40,045 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 12:42:40,053 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 13:04:25,342 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.226.235.239:8000
+2025-03-07 13:04:25,343 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 13:04:25,346 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 13:04:27,928 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 13:04:27,933 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 13:11:39,057 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 13:11:39] "GET /extract-text HTTP/1.1" 200 -
+2025-03-07 13:12:09,735 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f1.py', reloading
+2025-03-07 13:12:09,938 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 13:12:12,438 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 13:12:12,443 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 13:12:29,814 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.226.235.239:8000
+2025-03-07 13:12:29,818 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 13:12:29,821 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 13:12:32,282 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 13:12:32,287 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 13:12:36,570 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 13:12:36] "GET /extract-text HTTP/1.1" 200 -
+2025-03-07 13:14:49,508 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 13:14:49] "GET /extract-text HTTP/1.1" 200 -
+2025-03-07 13:14:50,566 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f1.py', reloading
+2025-03-07 13:14:50,804 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 13:14:53,491 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 13:14:53,495 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 13:15:11,245 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f1.py', reloading
+2025-03-07 13:15:11,463 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 13:15:14,586 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 13:15:14,591 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 13:15:34,064 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.226.235.239:8000
+2025-03-07 13:15:34,066 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 13:15:34,068 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 13:15:36,403 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 13:15:36,408 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 13:16:07,023 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 13:16:07] "GET /extract-text HTTP/1.1" 200 -
+2025-03-07 13:16:54,576 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 13:16:54] "GET /search-text?keyword=justin HTTP/1.1" 200 -
+2025-03-07 13:18:05,000 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 13:18:05] "[31m[1mGET /update-text HTTP/1.1[0m" 405 -
+2025-03-07 13:18:14,996 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 13:18:14] "[33mPUT /update-text HTTP/1.1[0m" 404 -
+2025-03-07 13:18:24,521 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 13:18:24] "PUT /update-text HTTP/1.1" 200 -
+2025-03-07 13:19:27,323 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 13:19:27] "[33mDELETE /delete-text HTTP/1.1[0m" 404 -
+2025-03-07 13:19:55,814 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 13:19:55] "DELETE /delete-text HTTP/1.1" 200 -
+2025-03-07 13:26:15,271 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f1.py', reloading
+2025-03-07 13:26:15,491 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 13:26:18,425 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 13:26:18,429 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 13:26:27,722 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f1.py', reloading
+2025-03-07 13:26:27,947 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 13:26:30,766 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 13:26:30,773 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 13:27:16,043 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.226.235.239:8000
+2025-03-07 13:27:16,046 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 13:27:16,048 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 13:27:18,458 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 13:27:18,463 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 13:27:30,379 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 13:27:30] "GET /extract-text HTTP/1.1" 200 -
+2025-03-07 13:28:18,892 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f2.py', reloading
+2025-03-07 13:28:19,113 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 13:28:21,587 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 13:28:21,592 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 13:28:26,991 - werkzeug - INFO -  * Detected change in 'C:\\12n8\\pdf_extract_api\\f2.py', reloading
+2025-03-07 13:28:27,189 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 13:28:29,554 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 13:28:29,559 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 13:30:35,846 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.226.235.239:8000
+2025-03-07 13:30:35,850 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 13:30:35,854 - werkzeug - INFO -  * Restarting with stat
+2025-03-07 13:30:38,485 - werkzeug - WARNING -  * Debugger is active!
+2025-03-07 13:30:38,490 - werkzeug - INFO -  * Debugger PIN: 454-184-331
+2025-03-07 13:31:33,966 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 13:31:33] "POST /upload HTTP/1.1" 200 -
+2025-03-07 13:32:10,418 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 13:32:10] "POST /upload HTTP/1.1" 200 -
+2025-03-07 13:32:43,159 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 13:32:43] "POST /upload HTTP/1.1" 200 -
+2025-03-07 13:33:13,410 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 13:33:13] "POST /upload HTTP/1.1" 200 -
+2025-03-07 13:34:26,406 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 13:34:26] "GET /extract-text/1c26c15f-9402-47f8-81ef-ac623862baf4 HTTP/1.1" 200 -
+2025-03-07 13:37:49,757 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2025 13:37:49] "GET /search-text/1c26c15f-9402-47f8-81ef-ac623862baf4?keyword=television HTTP/1.1" 200 -
